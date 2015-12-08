@@ -3,4 +3,5 @@ Samples for helping new developers approach to the basic usage of mybatis-genera
 
 # Quick guide
 To configure your IDE such as Eclipse and Intellij IDEA, add a maven running configuration below when you using it.
-  '' mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
+
+''mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
